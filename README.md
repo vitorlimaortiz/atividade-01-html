@@ -1,1 +1,23 @@
-# atividade-01-html
+<!doctype html>
+<html>
+<head>
+    <title>minha primeira página</title>
+</head>
+<BODY>
+   <H1> bem-vindo ao meu site</H1> 
+   <p>este é um paragráfo de exemplo.</p>
+   <a href="https:www.google.com">visite o google</a>
+   <img src="logo.png" alt="logo do site">
+   <ul>
+
+    <li> Item 1 </li>
+    <li> item 2 </li>
+    
+ </ul>
+    <form>
+     <label for="email">email:</label>
+     <input type="email" id="email" name="email">
+     <button type="submit">enviar</button>
+</form>
+</BODY>  
+</html>
