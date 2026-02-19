@@ -6,14 +6,12 @@
 <BODY>
    <H1> bem-vindo ao meu site</H1> 
    <p>este é um paragráfo de exemplo.</p>
-   <a href="https:www.google.com">visite o google</a>
-   <img src="logo.png" alt="logo do site">
+   <a href="https:www.google.com"> visite o google</a>
+   <img src="https://upload.wikimedia.org/wikipedia/pt/7/71/Federa%C3%A7%C3%A3o_Paulista_de_Futebol_logo.png" alt="logo do site">
    <ul>
-
-    <li> Item 1 </li>
+     <li> Item 1 </li>
     <li> item 2 </li>
-    
- </ul>
+    </ul>
     <form>
      <label for="email">email:</label>
      <input type="email" id="email" name="email">
